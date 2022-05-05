@@ -2,4 +2,3 @@
 
 [![](job.svg)](#)
 [![](astr.svg)](#)
-![](born.svg)
